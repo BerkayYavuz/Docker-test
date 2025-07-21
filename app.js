@@ -14,7 +14,7 @@ const server = http.createServer(async (req, res) => {
 		}
 
 });
-//deneme yorum satırı
+//deneme yorum satırı.
 server.listen(3000, () => {
 
 	console.log("Sunucu 3000 portunda çalışıyor")
